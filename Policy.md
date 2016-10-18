@@ -10,6 +10,17 @@
 - 그래서 이런 질문들만 주고받는 곳을 따로 만들면 어떨까 하는 생각에 코딩이랑 무관합니다만, 
 - 그룹을 재미로 한번 만들어봤습니다.
 
+### 관리자 명단(성명 가나다순)
+- [Superb Lr](https://www.facebook.com/superblr)
+- [김청호](https://www.facebook.com/profile.php?id=100001381736489)
+- [김휘원](https://www.facebook.com/kim.hwiwon.5)
+- [배준현](https://www.facebook.com/jun0hyun)
+- [윤성국](https://www.facebook.com/koock.yoon)
+- [Seahun Sean Oh](https://www.facebook.com/seanoh1989)
+- [이지운](https://www.facebook.com/profile.php?id=100005976064724)
+- [임경안](https://www.facebook.com/sj3141)
+- [신지민](https://www.facebook.com/Nesffer)
+
 
 ### 코무 GIT 가이드
 
