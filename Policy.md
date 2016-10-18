@@ -1,8 +1,7 @@
 ## 코딩이랑 무관합니다만
 
-- 페이스북 그룹 '코딩이랑 무관합니다만'과 코무 Git의 관리규정을 설명하는 문서 입니다.
+- 페이스북 그룹 '[코딩이랑 무관합니다만](https://www.facebook.com/groups/System.out.Coding/)'과 코무 Git의 관리규정을 설명하는 문서 입니다.
 
-- [코딩이랑 무관합니다만 페이스북 그룹](https://www.facebook.com/groups/System.out.Coding/)
 
 
 ### 코무란?
