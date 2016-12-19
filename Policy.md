@@ -1,3 +1,4 @@
+![코무 상단 커버인거 알죠?크크크](https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/1948176_893024850782135_293995060599629682_n.jpg?oh=ccebdce77e4ab9201406bbceb9871341&oe=58F10895)
 ## 코딩이랑 무관합니다만
 
 - 페이스북 그룹 '[코딩이랑 무관합니다만](https://www.facebook.com/groups/System.out.Coding/)'과 코무 Git의 관리규정을 설명하는 문서 입니다.
