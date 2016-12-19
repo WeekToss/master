@@ -6,15 +6,15 @@
 Index  |
 ------------- | 
 1. [코무란?](https://github.com/SystemOutCoding/Comu/wiki/Policy#%EC%BD%94%EB%AC%B4%EB%9E%80)   | 
-2. [관리자 명단(성명 가나다순)]()  | 
-3. [코무 GIT 가이드]()  | 
-4. [페이스북 그룹 가입 가이드]()  | 
-5. [글의 작성과 그 범위]()  | 
-6. [게시물 신고]()  | 
-7. [광고/상업적 행위]()  |
-8. [구인구직]()  |
-9. [세부 규정]()  |
-10. [코무합니다만,]()  |
+2. [관리자 명단(성명 가나다순)](https://github.com/SystemOutCoding/Comu/wiki/Policy#%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%AA%85%EB%8B%A8%EC%84%B1%EB%AA%85-%EA%B0%80%EB%82%98%EB%8B%A4%EC%88%9C)  | 
+3. [코무 GIT 가이드](https://github.com/SystemOutCoding/Comu/wiki/Policy#%EC%BD%94%EB%AC%B4-git-%EA%B0%80%EC%9D%B4%EB%93%9C)  | 
+4. [페이스북 그룹 가입 가이드](https://github.com/SystemOutCoding/Comu/wiki/Policy#%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81-%EA%B7%B8%EB%A3%B9-%EA%B0%80%EC%9E%85-%EA%B0%80%EC%9D%B4%EB%93%9C)  | 
+5. [글의 작성과 그 범위](https://github.com/SystemOutCoding/Comu/wiki/Policy#%EA%B8%80%EC%9D%98-%EC%9E%91%EC%84%B1%EA%B3%BC-%EA%B7%B8-%EB%B2%94%EC%9C%84)  | 
+6. [게시물 신고](https://github.com/SystemOutCoding/Comu/wiki/Policy#%EA%B2%8C%EC%8B%9C%EB%AC%BC-%EC%8B%A0%EA%B3%A0)  | 
+7. [광고/상업적 행위](https://github.com/SystemOutCoding/Comu/wiki/Policy#%EA%B4%91%EA%B3%A0%EC%83%81%EC%97%85%EC%A0%81-%ED%96%89%EC%9C%84)  |
+8. [구인구직](https://github.com/SystemOutCoding/Comu/wiki/Policy#%EA%B5%AC%EC%9D%B8%EA%B5%AC%EC%A7%81)  |
+9. [세부 규정](https://github.com/SystemOutCoding/Comu/wiki/Policy#%EC%84%B8%EB%B6%80-%EA%B7%9C%EC%A0%95)  |
+10. [코무합니다만,](https://github.com/SystemOutCoding/Comu/wiki/Policy#%EC%BD%94%EB%AC%B4%ED%95%A9%EB%8B%88%EB%8B%A4%EB%A7%8C)  |
 
 ***
 
