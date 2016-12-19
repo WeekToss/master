@@ -26,7 +26,7 @@ Index  |
 - 그룹을 재미로 한번 만들어봤습니다.
 
 ### 관리자 명단(성명 가나다순)
-- [Superb Lr](https://www.facebook.com/superblr)
+- [김용범](https://www.facebook.com/superblr)
 - [김청호](https://www.facebook.com/profile.php?id=100001381736489)
 - [김휘원](https://www.facebook.com/kim.hwiwon.5)
 - [배준현](https://www.facebook.com/jun0hyun)
